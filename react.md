@@ -9,7 +9,7 @@ nav_order: 1
 
 ![React](assets/img/react.png)
 
-##### Retrieved from [react.dev](https://react.dev/)
+_Image retrieved from [react.dev](https://react.dev/)_  
 
 React makes it painless to create interactive user interfaces. Design simple views for each state in the application and React will efficiently update and render just the right components when the source data changes. With React, developers can build encapsulated components that manage their own state, then compose them to make more complex interfaces.  
 
