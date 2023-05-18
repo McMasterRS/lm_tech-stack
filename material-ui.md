@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Material UI
-parent: Part 1 - Frontend Frameworks
+parent: Frontend Frameworks
 nav_order: 2
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Express.js/Node.js
-parent: Part 2 - Backend Frameworks
+parent: Backend Frameworks
 nav_order: 3
 ---
 

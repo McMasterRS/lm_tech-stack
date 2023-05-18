@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Part 1 - Frontend Frameworks
+title: Frontend Frameworks
 nav_order: 4
 has_children: true
 has_toc: true

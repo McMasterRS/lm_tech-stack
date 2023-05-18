@@ -1,7 +1,7 @@
 ---
 layout: default
 title: React or any React Derivative
-parent: Part 1 - Frontend Frameworks
+parent: Frontend Frameworks
 nav_order: 1
 ---
 

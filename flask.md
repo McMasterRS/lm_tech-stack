@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Flask
-parent: Part 2 - Backend Frameworks
+parent: Backend Frameworks
 nav_order: 1
 ---
 
