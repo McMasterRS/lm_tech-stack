@@ -1,8 +1,8 @@
-# Tech Stack Selection
+# Technology Stack Selection
 
-Materials for the McMaster Research Software workshop: **Tech Stack Selection**  
+Materials for the McMaster Research Software workshop: **Technology Stack Selection**  
 
-This repository contains workshop files, as well as files used to create the [workshop webpage](https://mcmasterrs.github.io/tech-stack-intro) with GitHub Pages.  
+This repository contains workshop files, as well as files used to create the [workshop webpage](https://mcmasterrs.github.io/lm_tech-stack) with GitHub Pages.  
 
 Contributions by the following individuals: 
 - Workshop content created by Kelvin Lee  
