@@ -9,7 +9,7 @@ nav_order: 4
 
 Relational databases are a common type of database that allows users to access data that is stored in different tables connnected by unique IDs and keys. In relational database management systems (RDBMS), users can input SQL queries to retrieve or manipulate data. The main benefit of a relational database is the ability to link data from various tables to create useful information. We will discuss some commonly used open source relational databases below.  
 
-![React](assets/img/databases.jpg)
+![databases](assets/img/databases.jpg)
 
 _Image retrieved from [pexels.com](https://www.pexels.com/photo/close-up-photo-of-mining-rig-1148820/)_  
 
