@@ -15,7 +15,7 @@ _Image retrieved from [pexels.com](https://www.pexels.com/photo/close-up-photo-o
 
 ### MySQL/MariaDB
 
-MariaDB is an open source distribution of MySQL. MariaDB maintainers provide frequent security releases. While this does not necessarily mean MariaDB is more secure, it does indicate the development community focuses heavily on its software security. MySQL community generated a lot of good documentation over the years, MariaDB inherits these documentation hence it is not difficult for developers to find support during development process.  
+MariaDB is an open source distribution of MySQL. MariaDB maintainers provide frequent security releases. While this does not necessarily mean MariaDB is more secure, it does indicate the development community focuses heavily on its software security. MySQL community generated a lot of good documentation over the years, MariaDB inherits these documentation hence it is not difficult for developers to find support during development process. MariaDB does not support mobile features natively, so if you are developing application that requires an on-device database you might want to consider alternative relational database management systems. There are some third-party guides and tools to install MariaDB on mobile devices, but it is always better to opt for a database management system that natively support your target platforms.
 
 ### PostgreSQL
 
