@@ -2,7 +2,7 @@
 layout: default
 title: Non-Relational Databases
 parent: Backend Frameworks
-nav_order: 5
+nav_order: 6
 ---
 
 ## Non-Relational Databases
