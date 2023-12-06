@@ -1,6 +1,6 @@
 title: Technology Stack Selection # *** Enter workshop title here
 github_repo_url: "https://mcmasterrs.github.io/lm_tech-stack" # ***Enter workshop URL (in github pages) here
-gh_edit_repository: "https://github.com/McMasterRS/lm_tech-stack" #*** ENTER the github URL for your repo
+gh_edit_repository: "https://github.com/McMasterRS/lm_tech-stack" # *** ENTER the github URL for your repo
 
 subtitle: "Research Software Development Learning Module - Technology Stack Selection"
 favicon_ico: "https://raw.githubusercontent.com/McMasterRS/workshop-template/main/assets/img/favicon.ico"
