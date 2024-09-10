@@ -37,8 +37,9 @@ An ideal search functionality should avoid issues like excessive case sensitivit
 ### Mess Management
 
 Documentation can get messy in different ways. A documentation software might have good features in one way, but vulnerable to generating mess as a result. For example, wikis can have orphaned pages. The features of wikis encourage lots of smaller, targeted pages, which can be good. But because the content is spread out, it can be challenging to understand the full context, especially when trying to make significant changes. Links (to different documents, or to different sections) can be valuable but again can cause problems because  
-    1. the context can be spread out, and
-    2. it is difficult to understand how changes overhear create contradictions, or breaks the links. 
+
+1. the context can be spread out, and
+2. it is difficult to understand how changes overhear create contradictions, or breaks the links. 
 
 Hence, link management is essential in a good documentation software.  
 
